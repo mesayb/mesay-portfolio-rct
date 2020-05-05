@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mesay-portfolio-rct/static/css/main.31bc7019.chunk.css",
+    "main.js": "/mesay-portfolio-rct/static/js/main.a6c31382.chunk.js",
+    "main.js.map": "/mesay-portfolio-rct/static/js/main.a6c31382.chunk.js.map",
+    "runtime-main.js": "/mesay-portfolio-rct/static/js/runtime-main.d37150b2.js",
+    "runtime-main.js.map": "/mesay-portfolio-rct/static/js/runtime-main.d37150b2.js.map",
+    "static/js/2.0eff3c74.chunk.js": "/mesay-portfolio-rct/static/js/2.0eff3c74.chunk.js",
+    "static/js/2.0eff3c74.chunk.js.map": "/mesay-portfolio-rct/static/js/2.0eff3c74.chunk.js.map",
+    "index.html": "/mesay-portfolio-rct/index.html",
+    "precache-manifest.8fb362e50a31b809d387a74f147d13d4.js": "/mesay-portfolio-rct/precache-manifest.8fb362e50a31b809d387a74f147d13d4.js",
+    "service-worker.js": "/mesay-portfolio-rct/service-worker.js",
+    "static/css/main.31bc7019.chunk.css.map": "/mesay-portfolio-rct/static/css/main.31bc7019.chunk.css.map",
+    "static/js/2.0eff3c74.chunk.js.LICENSE.txt": "/mesay-portfolio-rct/static/js/2.0eff3c74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d37150b2.js",
+    "static/js/2.0eff3c74.chunk.js",
+    "static/css/main.31bc7019.chunk.css",
+    "static/js/main.a6c31382.chunk.js"
+  ]
+}
