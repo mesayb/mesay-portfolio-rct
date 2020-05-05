@@ -84,8 +84,8 @@ function ContactMe(props) {
                                         <textarea className="form-control" id="message" name="message" type="text" />
                                     </div>
                                     {/* submit */}
-                                    <div className="text-center">
-                                        <button className="btn btn-primary ">Submit</button>
+                                    <div className="text-center" style={{"marginTop":"25px"}}>
+                                        <button className="btn btn-primary ">Send</button>
                                     </div>
 
                                 </div>

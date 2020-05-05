@@ -17,12 +17,12 @@ Current Full-Stack Web Development Student At Georgia Tech </p>
   <hr className="hr-light my-4"/>
           <ul className="list-inline text-center list-unstyled">
             <li className="list-inline-item myIcons">
-              <a className="p-2 fa-2x tw-ic" href="https://github.com/mesayb">
+              <a className="p-2 fa-2x tw-ic" href="https://github.com/mesayb" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github" style={{"color":"white"}}></i>
               </a>
             </li>
             <li className="list-inline-item myIcons">
-              <a className="p-2 fa-2x li-ic" href="https://www.linkedin.com/in/mesay-bekele/" >
+              <a className="p-2 fa-2x li-ic" href="https://www.linkedin.com/in/mesay-bekele/" target="_blank" rel="noopener noreferrer" >
                 <i className="fab fa-linkedin-in" style={{"color":"white"}}> </i>
               </a>
             </li>
