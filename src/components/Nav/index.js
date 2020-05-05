@@ -4,7 +4,7 @@ import "./style.css";
 
 function NavBar (){
   return (
-    <nav className="navbar navbar-fixed-top navbar-default">
+    <nav className="navbar navbar-fixed-top navbar-default" style={{" color": "black"}}>
   <div className="container">
     <div className="navbar-header">
       <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

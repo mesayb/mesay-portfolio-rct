@@ -85,7 +85,7 @@ function ContactMe(props) {
                                     </div>
                                     {/* submit */}
                                     <div className="text-center">
-                                        <button className="btn btn-light-blue">Submit</button>
+                                        <button className="btn btn-primary ">Submit</button>
                                     </div>
 
                                 </div>

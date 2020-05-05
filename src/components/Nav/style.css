@@ -4,9 +4,11 @@
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+   
   }
   .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #451abc !important;
   }

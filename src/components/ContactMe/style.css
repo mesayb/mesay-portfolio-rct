@@ -15,16 +15,14 @@
   }
 
   .contact {
-    color: #555555;
+    color: white;
     border: 1px solid #ccc;
     border-radius: 15px; 
+    padding:30px;
+    background-color: #36373a;
   }
   #message {
     margin: 0px;
-     height: 105px; 
+     height: 92px; 
      width: 451px;
-  }
- 
-  .contact {
-    padding:30px
   }
