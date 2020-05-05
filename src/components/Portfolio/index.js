@@ -7,8 +7,8 @@ function Portfolio(props) {
       <React.Fragment>
 <div className="container-fluid bg-3 text-center" id="portfolio">    
   <h3 className="margin">Portfolio</h3> <br/>
-  <div className="row">
-  <div className="col-sm-4 text-center">
+  <div className="row centerAll">
+  <div className="col-sm-3 text-center project">
       <p>Raven's Athletic Club</p>
      {/* links to project */}
           <ul className="list-inline text-center list-unstyled">
@@ -26,7 +26,7 @@ function Portfolio(props) {
           </ul>
       <img src="images/ravenclub.gif" className="img-responsive margin project_thumbnail text-center" alt="Raven's Athletic Club"/>
     </div>
-    <div className="col-sm-4">
+    <div className="col-sm-3 project">
       <p>Digital Asset Monitor</p>
       {/* links to project */}
       <ul className="list-inline text-center list-unstyled">
@@ -44,7 +44,7 @@ function Portfolio(props) {
           </ul>
       <img src="images/digitalAssets.png" className="img-responsive margin project_thumbnail" alt="Digital Asset Monitor"/>
     </div>
-    <div className="col-sm-4"> 
+    <div className="col-sm-3 project"> 
       <p>Password Generator</p>
       {/* links to project */}
       <ul className="list-inline text-center list-unstyled">
@@ -62,7 +62,7 @@ function Portfolio(props) {
           </ul>
       <img src="images/passwordGenerator.png" className="img-responsive margin project_thumbnail"  alt="Password Generator"/>
     </div>
-    <div className="col-sm-4"> 
+    <div className="col-sm-3 project"> 
       <p>Weather App</p>
       {/* links to project */}
       <ul className="list-inline text-center list-unstyled">
@@ -81,7 +81,7 @@ function Portfolio(props) {
       <img src="images/weatherApp.png" className="img-responsive margin project_thumbnail text-center" alt="Weather App"/>
     </div>
 
-    <div className="col-sm-4"> 
+    <div className="col-sm-3 project"> 
       <p>Node Employee Summary</p>
       {/* links to project */}
       <ul className="list-inline text-center list-unstyled">
@@ -100,7 +100,7 @@ function Portfolio(props) {
       <img src="images/employeeSummaryGif.gif" className="img-responsive margin project_thumbnail" alt="employee summary gif"/>
     </div>
 
-    <div className="col-sm-4"> 
+    <div className="col-sm-3 project"> 
       <p> Employee Tracker</p>
       {/* links to project */}
       <ul className="list-inline text-center list-unstyled">
