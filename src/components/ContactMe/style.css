@@ -1,0 +1,30 @@
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    color:black;
+  }
+  .map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    color:black;
+  }
+
+  .contact {
+    color: #555555;
+    border: 1px solid #ccc;
+    border-radius: 15px; 
+  }
+  #message {
+    margin: 0px;
+     height: 105px; 
+     width: 451px;
+  }
+ 
+  .contact {
+    padding:30px
+  }
