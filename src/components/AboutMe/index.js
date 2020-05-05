@@ -10,7 +10,7 @@ function AboutMe (props) {
 
   <div className="col-sm-8">
   <h3 className="margin">About Me</h3>
-  <p>Web Developer Experienced in Quality Assurance Automation Tester with a demonstrated history of working in the financial services industry. Skilled in Requirements Analysis, manual testing, Agile Methodologies, Test Automation, Selenium, Cucumber, Jira, API testing, SQL and Software Development Life Cycle (SDLC). Strong quality assurance professional with a Bachelor of Science - BS focused in Chemical Engineering from Addis Ababa University. 
+  <p>Web Developer Experienced in Quality Assurance Automation testing with a demonstrated history of working in the financial services industry. Skilled in Requirements Analysis, manual testing, Agile Methodologies, Test Automation, Selenium, Cucumber, Jira, API testing, SQL and Software Development Life Cycle (SDLC). Strong quality assurance professional with a Bachelor of Science - BS focused in Chemical Engineering from Addis Ababa University. 
 Current Full-Stack Web Development Student At Georgia Tech </p>
   <hr className="hr-light my-4"/>
 <p><strong>JavaScript | HTML | CSS | jQuery | React | Express | Node.js  <br/> MongoDB | MySQL</strong></p>
