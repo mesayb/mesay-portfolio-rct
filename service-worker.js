@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mesay-portfolio-rct/precache-manifest.19caa8e55b22013896bbc508d6f394ea.js"
+  "/mesay-portfolio-rct/precache-manifest.86ef274dc41fb0098c63773ef50e43c1.js"
 );
 
 self.addEventListener('message', (event) => {
