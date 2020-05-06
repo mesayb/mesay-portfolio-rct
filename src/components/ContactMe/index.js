@@ -19,20 +19,21 @@ function ContactMe(props) {
                {/* contact address */}
                         <div className="row text-center">
                             <div className="col-md-4">
-                                <a className="btn-floating blue accent-1" href="/#">
-                                    <i className="fas fa-map-marker-alt"></i>
+                                <a className="btn-floating blue accent-1 fa-2x" href="/#">
+                                    {/* <i className="fas fa-map-marker-alt"></i> */}
+                                    <i className="fa fa-map-marker"></i>
                                 </a>
                                 <p>Metro Atlanta, United States</p>
                       
                             </div>
                             <div className="col-md-4">
-                                <a className="btn-floating blue accent-1" href="/#">
+                                <a className="btn-floating blue accent-1 fa-2x" href="/#">
                                     <i className="fas fa-phone"></i>
                                 </a>
                                 <p onClick={() => copyCodeToClipboard()} value="+1-585-729-1840">+1-585-729-1840</p>
                             </div>
                             <div className="col-md-4">
-                                <a className="btn-floating blue accent-1" href="/#">
+                                <a className="btn-floating blue accent-1 fa-2x" href="/#">
                                     <i className="fas fa-envelope"></i>
                                 </a>
                                 <p>mesayr.bekele@gmail.com</p>
@@ -41,6 +42,7 @@ function ContactMe(props) {
                     </div>
 
                 </div>
+                <hr className="hr-light my-4"/>
                 <div className="row">
                     {/* <!-- Grid column --> */}
                     <div className="col-lg-6 mb-lg-5 mb-5 shadow-lg">

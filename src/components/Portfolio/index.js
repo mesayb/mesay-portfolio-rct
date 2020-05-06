@@ -6,7 +6,7 @@ function Portfolio(props) {
   return (
       <React.Fragment>
 <div className="container-fluid bg-3 text-center" id="portfolio">    
-  <h3 className="margin">Portfolio</h3> <br/>
+  <h1 className="margin">Portfolio</h1> <br/>
 
 
 
@@ -21,7 +21,7 @@ function Portfolio(props) {
 
   <div className="carousel-inner">
     <div className="item active">
-    <div className="col-sm-3 text-center project">
+    <div className="col-xs-12 col-sm-8 col-md-3 text-center project">
       <p>Raven's Athletic Club</p>
      {/* links to project */}
           <ul className="list-inline text-center list-unstyled">
