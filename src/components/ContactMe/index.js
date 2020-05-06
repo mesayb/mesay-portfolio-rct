@@ -2,6 +2,12 @@ import React from "react";
 import "./style.css";
 
 function ContactMe(props) {
+    const copyCodeToClipboard = (val) => {
+        const el = val
+        el.select()
+        document.execCommand("copy")
+      }
+
     return (
         <section className="my-5  text-dark contact" >
             <div className="container pb-5" id="contact_section" >
@@ -23,7 +29,7 @@ function ContactMe(props) {
                                 <a className="btn-floating blue accent-1" href="/#">
                                     <i className="fas fa-phone"></i>
                                 </a>
-                                <p>+1-585-729-1840</p>
+                                <p onClick={() => copyCodeToClipboard()} value="+1-585-729-1840">+1-585-729-1840</p>
                             </div>
                             <div className="col-md-4">
                                 <a className="btn-floating blue accent-1" href="/#">

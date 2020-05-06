@@ -97,7 +97,7 @@ function Portfolio(props) {
               </a>
             </li>
           </ul>
-      <img src="images/employeeSummaryGif.gif" className="img-responsive margin project_thumbnail" alt="employee summary gif"/>
+      <img src="images/EmployeeSummaryGif.gif" className="img-responsive margin project_thumbnail" alt="employee summary gif"/>
     </div>
 
     <div className="col-sm-3 project"> 
@@ -116,7 +116,7 @@ function Portfolio(props) {
               </a>
             </li>
           </ul>
-      <img src="images/employeeTracker.gif" className="img-responsive margin project_thumbnail" alt="Employee tracker gif"/>
+      <img src="images/EmployeeTracker.gif" className="img-responsive margin project_thumbnail" alt="Employee tracker gif"/>
     </div>
     
   
