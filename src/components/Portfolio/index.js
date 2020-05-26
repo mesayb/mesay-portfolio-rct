@@ -6,7 +6,7 @@ function Portfolio(props) {
   return (
       <React.Fragment>
 <div className="container-fluid bg-3 text-center" id="portfolio">    
-  <h1 className="margin">Portfolio</h1> <br/>
+  <h3 className="margin">Portfolio</h3> <br/>
 
 
 
@@ -21,7 +21,7 @@ function Portfolio(props) {
 
   <div className="carousel-inner">
     <div className="item active">
-    <div className="col-xs-12 col-sm-8 col-md-3 text-center project">
+    <div className="col-sm-3 text-center project">
       <p>Raven's Athletic Club</p>
      {/* links to project */}
           <ul className="list-inline text-center list-unstyled">
@@ -32,7 +32,7 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="https://secure-beach-74289.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-              <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
           
               </a>
             </li>
@@ -51,8 +51,8 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="https://alexgignilliat.github.io/Digital-Asset-Monitor/" target="_blank" rel="noopener noreferrer">
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
               <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
-              
               </a>
             </li>
           </ul>
@@ -70,7 +70,7 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="https://mesayb.github.io/passwordGenerator/" target="_blank" rel="noopener noreferrer">
-              <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
           
               </a>
             </li>
@@ -91,7 +91,7 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="https://mesayb.github.io/weatherCast/" target="_blank" rel="noopener noreferrer">
-              <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
           
               </a>
             </li>
@@ -110,7 +110,7 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="https://dashboard.heroku.com/apps/employee-summary" target="_blank" rel="noopener noreferrer" >
-              <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
           
               </a>
             </li>
@@ -129,7 +129,7 @@ function Portfolio(props) {
             </li>
             <li className="list-inline-item myIcons">
               <a className="p-2 fa-2x li-ic" href="/#" target="_blank" rel="noopener noreferrer" >
-              <i className="fas fa-globe zoom" style={{"color":"red"}} data-toggle="tooltip" title="Deployed App"></i>
+              <i className="fas fa-globe zoom" style={{"color":"red"}}></i>
           
               </a>
             </li>
